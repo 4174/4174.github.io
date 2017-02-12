@@ -1,4 +1,4 @@
-20170207 [./2017/02/07/Hello-World.html](Hello, World)
+20170207 [Hello, World](./2017/02/07/Hello-World.html)
 
 
 ## Welcome to GitHub Pages
