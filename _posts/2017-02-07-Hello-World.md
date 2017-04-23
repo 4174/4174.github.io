@@ -16,6 +16,8 @@ date: 2017-02-07T20:17:00Z+0400
 - [Liquid Languages Support](https://marketplace.visualstudio.com/items?itemName=neilding.language-liquid)
 - [Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
 - [Jekyll Snippets](https://marketplace.visualstudio.com/items?itemName=ginfuru.vscode-jekyll-snippets)
+- [mojombo](https://github.com/mojombo/mojombo.github.io)
+- [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 # Git
 - [Download](https://git-scm.com/download)
 - `git clone`
