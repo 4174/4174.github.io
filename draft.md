@@ -3,8 +3,12 @@
 - [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 - [VSCIcons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 - [Material Theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- [Liquid Languages Support](https://marketplace.visualstudio.com/items?itemName=neilding.language-liquid)
+- [Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
+- [Jekyll Snippets](https://marketplace.visualstudio.com/items?itemName=ginfuru.vscode-jekyll-snippets)
 # Git
 - [Download](https://git-scm.com/download)
+- `git clone`
 # NET&WMF
 - [Практическое руководство. Определение установленных версий платформы .NET Framework](
 https://msdn.microsoft.com/ru-ru/library/hh925568(v=vs.110).aspx)
