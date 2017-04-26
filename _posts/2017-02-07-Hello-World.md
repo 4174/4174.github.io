@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hello World"
-date: 2017-02-07 20:17:00 +0300
 ---
 
 {{ page.title }}
