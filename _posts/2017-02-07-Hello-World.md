@@ -5,7 +5,7 @@ title: "Hello World"
 
 {{ page.title }}
 ================
-{{ page.date }}
+{{ page.date | date_to_string }}
 
 # Github Pages By Jekyll
 # Code Start
