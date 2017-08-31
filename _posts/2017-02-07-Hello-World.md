@@ -3,10 +3,6 @@ layout: post
 title: "Hello World"
 ---
 
-{{ page.title }}
-================
-{{ page.date | date_to_string }}
-
 # Github Pages By Jekyll
 # Code Start
 - [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
